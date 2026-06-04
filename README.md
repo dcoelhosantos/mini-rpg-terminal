@@ -18,6 +18,10 @@ E foi exatamente isso que o feitiço entendeu. A magia cobriu sua maior fraqueza
 
 Você continuou sendo um guerreiro inútil, mas que simplesmente não para de reviver. Os dois generais do Lorde Demônio (o Ciclop e o Morcego Gigante) fizeram picadinho dos seus dois amigos superpoderosos. Agora, a Terra inteira conta com a sua teimosia infinita para vencer essa guerra pelo cansaço!
 
+<div align="center">
+   <img width="842" height="614" alt="image" src="https://github.com/user-attachments/assets/a3ca36d2-0fa7-4a7e-8095-10c62bed04f9" />
+</div>
+
 ---
 
 ## 🎮 Mecânicas Únicas de Gameplay
