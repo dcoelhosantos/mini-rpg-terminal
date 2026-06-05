@@ -83,6 +83,10 @@ Com o NVM configurado, abra o seu terminal e siga estes passos finais:
    *(Nota: Se estiver no Windows e esse comando der erro, use apenas `nvm use 20`)*
 
 3. **Clone o repositório do jogo para a sua máquina:**
+   - Usando HTTPS (Padrão e recomendado):
+   `git clone https://github.com/dcoelhosantos/mini-rpg-terminal.git`
+
+   - Ou usando SSH (Se você já tiver a chave configurada):
    `git clone git@github.com:dcoelhosantos/mini-rpg-terminal.git`
 
 4. **Navegue até a pasta do jogo:**
